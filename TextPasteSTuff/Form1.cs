@@ -150,7 +150,9 @@ namespace TextPasteSTuff
 
         private static String findExceptions(string clipboardText)
         {
-            /*
+            /* EXAMPLE 
+            Error from copy(savedLogs) : 
+
             05.04.2017 17:09:37:801 [WARN] [002053952] [8732] [001] [0000] [Exception] S_SET_JACKPOT [id=405.0,value=21000] in state 'Game Queue' <Error: IllegalArgumentException>
             Error: IllegalArgumentException
 	            at com.gamepoint.client.state::State/processMsg()
@@ -161,6 +163,7 @@ namespace TextPasteSTuff
 	            at com.gamepoint.client::ClientListener/run()
 	            at com.gamepoint.client::Client/onEnterFrame()
             */
+
             String pattern = "\\[Exception\\](.*)\\n(.*)\\n(.*)\\n(.*)\\n(.*)\\n(.*)\\n(.*)\\n(.*)";
             MatchCollection result = Regex.Matches(clipboardText, pattern);
             String returnString = "----- Exceptions -----\r\n";
