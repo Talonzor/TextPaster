@@ -1,0 +1,15 @@
+c:\users\michaelp\onedrive - gamepoint b.v\documents\visual studio 2015\Projects\TextPasteSTuff\TextPasteSTuff\bin\Debug\TextPasteSTuff.exe.config
+c:\users\michaelp\onedrive - gamepoint b.v\documents\visual studio 2015\Projects\TextPasteSTuff\TextPasteSTuff\bin\Debug\TextPasteSTuff.exe
+c:\users\michaelp\onedrive - gamepoint b.v\documents\visual studio 2015\Projects\TextPasteSTuff\TextPasteSTuff\bin\Debug\TextPasteSTuff.pdb
+c:\users\michaelp\onedrive - gamepoint b.v\documents\visual studio 2015\Projects\TextPasteSTuff\TextPasteSTuff\obj\Debug\TextPasteSTuff.Form1.resources
+c:\users\michaelp\onedrive - gamepoint b.v\documents\visual studio 2015\Projects\TextPasteSTuff\TextPasteSTuff\obj\Debug\TextPasteSTuff.Properties.Resources.resources
+c:\users\michaelp\onedrive - gamepoint b.v\documents\visual studio 2015\Projects\TextPasteSTuff\TextPasteSTuff\obj\Debug\TextPasteSTuff.csproj.GenerateResource.Cache
+c:\users\michaelp\onedrive - gamepoint b.v\documents\visual studio 2015\Projects\TextPasteSTuff\TextPasteSTuff\obj\Debug\TextPasteSTuff.exe
+c:\users\michaelp\onedrive - gamepoint b.v\documents\visual studio 2015\Projects\TextPasteSTuff\TextPasteSTuff\obj\Debug\TextPasteSTuff.pdb
+c:\users\michaelp\onedrive - gamepoint b.v\documents\visual studio 2015\Projects\TextPasteSTuff\TextPasteSTuff\bin\Debug\TextPasteSTuff.exe.manifest
+c:\users\michaelp\onedrive - gamepoint b.v\documents\visual studio 2015\Projects\TextPasteSTuff\TextPasteSTuff\bin\Debug\TextPasteSTuff.application
+c:\users\michaelp\onedrive - gamepoint b.v\documents\visual studio 2015\Projects\TextPasteSTuff\TextPasteSTuff\obj\Debug\TextPasteSTuff.exe.manifest
+c:\users\michaelp\onedrive - gamepoint b.v\documents\visual studio 2015\Projects\TextPasteSTuff\TextPasteSTuff\obj\Debug\TextPasteSTuff.application
+c:\users\michaelp\onedrive - gamepoint b.v\documents\visual studio 2015\Projects\TextPasteSTuff\TextPasteSTuff\obj\Debug\TextPasteSTuff.csprojResolveAssemblyReference.cache
+C:\Users\michaelp\OneDrive - GamePoint B.V\Documents\Visual Studio 2015\Projects\TextPasteSTuff\TextPasteSTuff\bin\Debug\Shortcut.dll
+C:\Users\michaelp\OneDrive - GamePoint B.V\Documents\Visual Studio 2015\Projects\TextPasteSTuff\TextPasteSTuff\bin\Debug\Shortcut.pdb
